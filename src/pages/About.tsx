@@ -34,7 +34,7 @@ export default function About() {
                 className="rounded-2xl md:rounded-3xl overflow-hidden aspect-video shadow-2xl border border-white/10"
               >
                 <img 
-                  src="/images/startup.jpg" 
+                  src="https://unsplash.com/photos/person-pointing-white-paper-on-wall-7tXA8xwe4W4" 
                   alt="Our Beginning" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
