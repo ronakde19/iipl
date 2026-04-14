@@ -32,7 +32,7 @@ export default function Navbar() {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-surface md:glass shadow-sm">
       <div className="max-w-7xl mx-auto px-6 md:px-8 py-4 flex justify-between items-center">
         <Link to="/" className="flex items-center">
-          <img src="./logo.png" alt="IIPL Logo" className="h-12 w-auto" referrerPolicy="no-referrer" />
+          <img src="/logo.png" alt="IIPL Logo" className="h-12 w-auto" referrerPolicy="no-referrer" />
         </Link>
         
         {/* Desktop Navigation */}
