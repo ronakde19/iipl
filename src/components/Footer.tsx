@@ -5,7 +5,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-12">
         <div className="col-span-1">
           <Link to="/" className="mb-6 block">
-            <img src="/logo.png" alt="IIPL Logo" className="h-12 w-auto" referrerPolicy="no-referrer" />
+            <img src="/images/logo.png" alt="IIPL Logo" className="h-12 w-auto" referrerPolicy="no-referrer" />
           </Link>
           <p className="text-xs leading-relaxed text-on-surface-variant pr-8">
             Architecting the future of digital commerce through innovation and strategic curator excellence.
